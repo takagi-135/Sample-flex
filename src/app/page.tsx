@@ -24,7 +24,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="mt-10 flex flex-wrap items-center justify-center p-3 text-center">
+      <div className="mt-10 mb-40 flex flex-wrap items-center justify-center p-3 text-center">
         <div className="mb-3">その他、並べ列数を可変できます</div>
         <div className="w-full"></div>
         <div className="grid grid-cols-3 gap-4 md:grid-cols-6 lg:grid-cols-8">
